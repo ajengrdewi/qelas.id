@@ -1,0 +1,63 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    background-color: white;
+    height: 60px;
+    color: white;
+    padding: 5px 5px 0px 20px;
+}
+.button {
+    background-color: #3a8476;
+    color: white;
+    border: #3a8476;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+    font-family: 'Quicksand';
+    font-size: 12px;
+    align-self: center;
+    cursor: pointer;
+}
+.button-signup {
+    background-color: white;
+    color: #3a8476;
+    border: 1px solid #3a8476;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 20px;
+    font-family: 'Quicksand';
+    font-size: 12px;
+    align-self: center;
+    cursor: pointer;
+}
+.introduction {
+    font-family: 'Quicksand';
+    text-align: center;
+    margin: 10px 70px 50px 70px;
+}
+h2 { color: #3a8476; }
+.features { 
+    font-family: 'Quicksand';
+    justify-content: space-between;
+    margin: 100px 70px 10px 70px;
+}
+.facility { 
+    font-family: 'Quicksand';
+    justify-content: flex-end;
+    margin: 50px 70px 70px 600px;
+}
+.vacancy {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand';
+    margin: 10px 70px 50px 70px;
+}
+.vacancy .open-vacancy {
+    text-align: center;
+    width: 300px;
+    border: 2px outset whitesmoke;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
