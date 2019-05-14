@@ -2,9 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-content: space-around;
-    background: #73C8A9;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #373B44, #73C8A9);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #373B44, #73C8A9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: white;
     height: 60px;
     color: white;
     padding: 5px 5px 0px 20px;
